@@ -7,3 +7,5 @@ Puedes ver el proyecto en el siguinte enlace: https://roadmap.sh/projects/single
 ## https://github.com/scancio/CV-HTML/tree/master
 
 [Project url](https://roadmap.sh/projects/single-page-cv)
+https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv
