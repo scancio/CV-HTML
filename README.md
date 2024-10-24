@@ -3,10 +3,4 @@ El objetivo de este proyecto es crear un CV estructurado de una sola página uti
 
 ## https://roadmap.sh/projects/single-page-cv
 Puedes ver el proyecto en el siguinte enlace: https://roadmap.sh/projects/single-page-cv
-## https://roadmap.sh/projects/single-page-cv
-## https://github.com/scancio/CV-HTML/tree/master
 
-[Project url](https://roadmap.sh/projects/single-page-cv)
-https://roadmap.sh/projects/single-page-cv
-https://roadmap.sh/projects/single-page-cv
-https://roadmap.sh/projects/single-page-cv
